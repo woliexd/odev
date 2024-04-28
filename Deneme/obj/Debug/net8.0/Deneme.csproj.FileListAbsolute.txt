@@ -1,0 +1,7 @@
+C:\Users\pc\Desktop\odev\Deneme\obj\Debug\net8.0\Deneme.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pc\Desktop\odev\Deneme\obj\Debug\net8.0\Deneme.AssemblyInfoInputs.cache
+C:\Users\pc\Desktop\odev\Deneme\obj\Debug\net8.0\Deneme.AssemblyInfo.cs
+C:\Users\pc\Desktop\odev\Deneme\obj\Debug\net8.0\Deneme.csproj.CoreCompileInputs.cache
+C:\Users\pc\Desktop\odev\Deneme\obj\Debug\net8.0\Deneme.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\pc\Desktop\odev\Deneme\obj\Debug\net8.0\Deneme.RazorAssemblyInfo.cache
+C:\Users\pc\Desktop\odev\Deneme\obj\Debug\net8.0\Deneme.RazorAssemblyInfo.cs
